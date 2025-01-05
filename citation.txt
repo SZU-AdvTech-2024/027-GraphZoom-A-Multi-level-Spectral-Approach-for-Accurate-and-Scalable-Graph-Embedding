@@ -1,0 +1,8 @@
+@article{REPO027,
+    author = "Deng, Chenhui and Zhao, Zhiqiang and Wang, Yongyu and Zhang, Zhiru and Feng, Zhuo",
+    journal = "ArXiv",
+    title = "{GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding}",
+    url = "https://api.semanticscholar.org/CorpusID:203837683",
+    volume = "abs/1910.02370",
+    year = "2019"
+}
